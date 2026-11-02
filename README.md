@@ -49,4 +49,3 @@ Para revisão, envie o enunciado, seu código, a entrada usada e a saída obtida
 Cada aula contém desafios/, projetos/ e progresso.md. As atividades são independentes: arquivos de solução de uma atividade não precisam importar arquivos de outra.
 
 Consulte [fontes.md](docs/fontes.md) para identificar os materiais usados. Os slides originais não estão incluídos. Este pacote foi criado localmente, sem publicar ou alterar o C_LAB. Se quiser versionar depois, faça um commit por atividade concluída.
-
